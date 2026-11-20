@@ -89,7 +89,8 @@ plan = find_plan(initial_state, goal_state, actions)
 print("Plan:", plan)
 ```
 # ouput:
-![alt text](image.png)
+
+![alt text](image-1.png)
 
 # result:
 
